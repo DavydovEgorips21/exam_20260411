@@ -1,0 +1,12 @@
+C:\Users\Hunta\source\repos\exam_20260411\pgDataAccess\bin\Debug\net9.0\pgDataAccess.deps.json
+C:\Users\Hunta\source\repos\exam_20260411\pgDataAccess\bin\Debug\net9.0\pgDataAccess.dll
+C:\Users\Hunta\source\repos\exam_20260411\pgDataAccess\bin\Debug\net9.0\pgDataAccess.pdb
+C:\Users\Hunta\source\repos\exam_20260411\pgDataAccess\obj\Debug\net9.0\pgDataAccess.csproj.AssemblyReference.cache
+C:\Users\Hunta\source\repos\exam_20260411\pgDataAccess\obj\Debug\net9.0\pgDataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hunta\source\repos\exam_20260411\pgDataAccess\obj\Debug\net9.0\pgDataAccess.AssemblyInfoInputs.cache
+C:\Users\Hunta\source\repos\exam_20260411\pgDataAccess\obj\Debug\net9.0\pgDataAccess.AssemblyInfo.cs
+C:\Users\Hunta\source\repos\exam_20260411\pgDataAccess\obj\Debug\net9.0\pgDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Hunta\source\repos\exam_20260411\pgDataAccess\obj\Debug\net9.0\pgDataAccess.dll
+C:\Users\Hunta\source\repos\exam_20260411\pgDataAccess\obj\Debug\net9.0\refint\pgDataAccess.dll
+C:\Users\Hunta\source\repos\exam_20260411\pgDataAccess\obj\Debug\net9.0\pgDataAccess.pdb
+C:\Users\Hunta\source\repos\exam_20260411\pgDataAccess\obj\Debug\net9.0\ref\pgDataAccess.dll

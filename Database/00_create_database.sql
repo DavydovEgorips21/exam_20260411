@@ -1,0 +1,17 @@
+\set ON_ERROR_STOP on
+
+DO $$
+BEGIN
+    IF NOT EXISTS (SELECT 1 FROM pg_roles WHERE rolname = 'app') THEN
+        CREATE ROLE app LOGIN PASSWORD '123456789';
+    ELSE
+        ALTER ROLE app WITH LOGIN PASSWORD '123456789';
+    END IF;
+END
+$$;
+
+SELECT 'CREATE DATABASE davydov OWNER app ENCODING ''UTF8'''
+WHERE NOT EXISTS (SELECT 1 FROM pg_database WHERE datname = 'davydov')
+\gexec
+
+GRANT ALL PRIVILEGES ON DATABASE davydov TO app;
